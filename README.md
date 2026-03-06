@@ -3,9 +3,6 @@
 </div>
 
 ###
-
-<p align="center">- # Hi! Welcome to My GitHub! 👋
-
 ```python
 class Developer:
     def __init__(self):
