@@ -4,7 +4,22 @@
 
 ###
 
-<p align="center">- 👨‍💻 Lorenzo Accasto – Estudante de Análise e Desenvolvimento de Sistemas  <br>- 🎓 Ensino médio em conclusão  <br>- 🔒 Interesse em Cibersegurança  <br>- 💻 Habilidades em programação e tecnologia <br>- 📚 Inglês Intermediário</p>
+<p align="center">- # Hi! Welcome to My GitHub! 👋
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Lorenzo Accasto"
+        self.pronouns = "He/Him"
+        self.location = "São Paulo, Brazil"
+        self.profession = "Backend Dev"
+        self.status = "Preparing for university"
+        self.objective = "Become proficient in Cybersecurity"
+        self.hobbies = [
+            "gaming", "programming",
+            "reading", "gym", "sleeping"
+        ]
+```
 
 ###
 
