@@ -40,6 +40,9 @@ class Developer:
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
 </div>
 
 ###
