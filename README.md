@@ -57,14 +57,3 @@ class Developer:
 </div>
 
 ###
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-zeta-ruddy-28.vercel.app/api?username=Accasto&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-zeta-ruddy-28.vercel.app/api/top-langs/?username=Accasto&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Accasto&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
-</div>
-
-###
